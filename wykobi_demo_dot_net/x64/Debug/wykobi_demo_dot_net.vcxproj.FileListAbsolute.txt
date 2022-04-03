@@ -1,0 +1,5 @@
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\1 semestre\Geometria Computacional\wykobi_demo_dot_net\wykobi_demo_dot_net\x64\Debug\wykobi_demo_dot_net.vcxproj.AssemblyReference.cache
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\1 semestre\Geometria Computacional\wykobi_demo_dot_net\wykobi_demo_dot_net\x64\Debug\wykobi_demo_dot_net.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\1 semestre\Geometria Computacional\wykobi_demo_dot_net\wykobi_demo_dot_net\x64\Debug\wykobi_demo_dot_net.WykobiGUIForm.resources
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\1 semestre\Geometria Computacional\wykobi_demo_dot_net\wykobi_demo_dot_net\x64\Debug\wykobi_demo_dot_net.vcxproj.GenerateResource.cache
+C:\Users\matuf\OneDrive\Área de Trabalho\Mestrado\Doutorado\1 semestre\Geometria Computacional\wykobi_demo_dot_net\wykobi_demo_dot_net\x64\Debug\wykobi_demo_dot_net.exe
